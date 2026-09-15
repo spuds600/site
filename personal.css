@@ -1,0 +1,53 @@
+#header
+{ 
+  color: #f889f0;
+  background-color: transparent;
+
+  font-family: arial;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 8px;
+
+  text-align: center;
+  visibility: visible;
+  position: relative;
+  height: 40px;
+}
+
+body
+{
+  color: #fffd9a;
+  font-size: 13px;
+  font-family: arial;
+  line-height: 22px;
+/*  background-color: #004E87; */
+  background-color: #050c5d;
+  text-align: left;
+  margin-top: 75;
+  margin-left: 125;
+  margin-right: 125;
+}
+
+#navtop
+{
+  color: white;
+  font-family: Arial;
+  font-size: 13px;
+  line-height: 16px;
+  background-color: #63e330;
+  text-align: center;
+  letter-spacing: 6px;
+  margin-bottom: 15px;
+  height: 16px;
+}
+
+a
+{
+  color: #ec3a8dbf;
+  text-decoration: none;
+}
+
+h3.teachingtitle{font-size: 1.2em; font-weight: bold; text-align: center; }
+h3.teachingitem{font-weight: bold; text-align: left; background-color:
+#044476; padding-left: 5px}
+
